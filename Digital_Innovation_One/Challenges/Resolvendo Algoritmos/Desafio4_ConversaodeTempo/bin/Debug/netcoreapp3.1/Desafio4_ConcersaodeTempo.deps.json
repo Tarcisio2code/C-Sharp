@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desafio4_ConcersaodeTempo/1.0.0": {
+        "runtime": {
+          "Desafio4_ConcersaodeTempo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio4_ConcersaodeTempo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

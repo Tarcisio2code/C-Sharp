@@ -1,0 +1,13 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\bin\Debug\netcoreapp3.1\Desafio6_TempodoDobby.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\bin\Debug\netcoreapp3.1\Desafio6_TempodoDobby.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\bin\Debug\netcoreapp3.1\Desafio6_TempodoDobby.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\bin\Debug\netcoreapp3.1\Desafio6_TempodoDobby.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\bin\Debug\netcoreapp3.1\Desafio6_TempodoDobby.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\bin\Debug\netcoreapp3.1\Desafio6_TempodoDobby.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio6_TempodoDobby\obj\Debug\netcoreapp3.1\Desafio6_TempodoDobby.genruntimeconfig.cache

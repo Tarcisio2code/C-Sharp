@@ -1,0 +1,16 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\Distancia.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\Distancia.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\Distancia.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\ref\Distancia.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\bin\Debug\net5.0\Distancia.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\ref\Distancia.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Distancia\obj\Debug\net5.0\Distancia.genruntimeconfig.cache

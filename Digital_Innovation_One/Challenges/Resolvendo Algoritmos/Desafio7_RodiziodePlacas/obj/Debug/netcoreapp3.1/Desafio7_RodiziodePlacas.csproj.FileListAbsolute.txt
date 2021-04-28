@@ -1,0 +1,13 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\bin\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\bin\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\bin\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\bin\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\bin\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\bin\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.genruntimeconfig.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio7_RodiziodePlacas\obj\Debug\netcoreapp3.1\Desafio7_RodiziodePlacas.csprojAssemblyReference.cache

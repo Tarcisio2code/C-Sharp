@@ -1,0 +1,13 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\bin\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\bin\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\bin\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\bin\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\bin\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\bin\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio4\obj\Debug\netcoreapp3.1\Desafio4_ConcersaodeTempo.genruntimeconfig.cache

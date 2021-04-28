@@ -1,0 +1,16 @@
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\amigo-do-pablo.exe
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\amigo-do-pablo.deps.json
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\amigo-do-pablo.runtimeconfig.json
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\amigo-do-pablo.runtimeconfig.dev.json
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\amigo-do-pablo.dll
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\ref\amigo-do-pablo.dll
+C:\Users\Tarcisio\Documents\amigo-do-pablo\bin\Debug\net5.0\amigo-do-pablo.pdb
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.AssemblyInfo.cs
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.dll
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\ref\amigo-do-pablo.dll
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.pdb
+C:\Users\Tarcisio\Documents\amigo-do-pablo\obj\Debug\net5.0\amigo-do-pablo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\bin\Debug\netcoreapp3.1\Desafio2_CardapioAereo.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\bin\Debug\netcoreapp3.1\Desafio2_CardapioAereo.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\bin\Debug\netcoreapp3.1\Desafio2_CardapioAereo.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\bin\Debug\netcoreapp3.1\Desafio2_CardapioAereo.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\bin\Debug\netcoreapp3.1\Desafio2_CardapioAereo.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\bin\Debug\netcoreapp3.1\Desafio2_CardapioAereo.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio2_CardapioAereo\obj\Debug\netcoreapp3.1\Desafio2_CardapioAereo.genruntimeconfig.cache

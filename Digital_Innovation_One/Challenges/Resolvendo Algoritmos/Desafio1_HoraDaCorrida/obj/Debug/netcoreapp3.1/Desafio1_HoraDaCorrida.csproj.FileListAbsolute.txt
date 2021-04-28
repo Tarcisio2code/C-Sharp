@@ -1,0 +1,26 @@
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.exe
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.deps.json
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.runtimeconfig.json
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.runtimeconfig.dev.json
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.dll
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.pdb
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.csprojAssemblyReference.cache
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.AssemblyInfo.cs
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.dll
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.pdb
+C:\Users\Tarcisio\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.genruntimeconfig.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\bin\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\ConsoleApp1\obj\Debug\netcoreapp3.1\Desafio1_HoraDaCorrida.genruntimeconfig.cache

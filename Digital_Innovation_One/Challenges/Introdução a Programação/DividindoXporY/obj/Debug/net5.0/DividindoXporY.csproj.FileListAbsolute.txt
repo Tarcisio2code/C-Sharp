@@ -1,0 +1,16 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\DividindoXporY.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\DividindoXporY.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\DividindoXporY.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\DividindoXporY.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\DividindoXporY.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\ref\DividindoXporY.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\bin\Debug\net5.0\DividindoXporY.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\ref\DividindoXporY.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\DividindoXporY\obj\Debug\net5.0\DividindoXporY.genruntimeconfig.cache

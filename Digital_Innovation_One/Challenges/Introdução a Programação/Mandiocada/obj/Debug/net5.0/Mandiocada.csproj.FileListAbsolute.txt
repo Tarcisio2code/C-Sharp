@@ -1,0 +1,16 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\Mandiocada.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\Mandiocada.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\Mandiocada.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\Mandiocada.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\Mandiocada.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\ref\Mandiocada.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\bin\Debug\net5.0\Mandiocada.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\ref\Mandiocada.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios C-Sharp\Mandiocada\obj\Debug\net5.0\Mandiocada.genruntimeconfig.cache

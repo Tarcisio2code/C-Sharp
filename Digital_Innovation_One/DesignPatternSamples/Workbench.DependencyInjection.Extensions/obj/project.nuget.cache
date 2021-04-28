@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IEkE0y1PP9CnnwGyHVzmMGEKFcxbjIiyef+dP9EJxdHPd4cSs9vg9h1+ygbbcQxvUlZ7l72KtMWTxUudHUh2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarcisio\\Documents\\DIO\\C-Sharp\\DesignPatternSamples\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarcisio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

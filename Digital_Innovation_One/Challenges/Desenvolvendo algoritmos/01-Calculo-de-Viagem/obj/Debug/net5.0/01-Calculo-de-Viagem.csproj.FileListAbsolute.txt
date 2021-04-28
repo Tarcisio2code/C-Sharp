@@ -1,0 +1,16 @@
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\01-Calculo-de-Viagem.exe
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\01-Calculo-de-Viagem.deps.json
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\01-Calculo-de-Viagem.runtimeconfig.json
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\01-Calculo-de-Viagem.runtimeconfig.dev.json
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\01-Calculo-de-Viagem.dll
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\ref\01-Calculo-de-Viagem.dll
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\bin\Debug\net5.0\01-Calculo-de-Viagem.pdb
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.AssemblyInfo.cs
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.dll
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\ref\01-Calculo-de-Viagem.dll
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.pdb
+C:\Users\Tarcisio\Documents\DIO\C-Sharp\Desafios\Desenvolvendo algoritmos\01-Calculo-de-Viagem\obj\Debug\net5.0\01-Calculo-de-Viagem.genruntimeconfig.cache

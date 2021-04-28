@@ -1,0 +1,13 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\bin\Debug\netcoreapp3.1\Desafio3_Pizza.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\bin\Debug\netcoreapp3.1\Desafio3_Pizza.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\bin\Debug\netcoreapp3.1\Desafio3_Pizza.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\bin\Debug\netcoreapp3.1\Desafio3_Pizza.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\bin\Debug\netcoreapp3.1\Desafio3_Pizza.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\bin\Debug\netcoreapp3.1\Desafio3_Pizza.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.csprojAssemblyReference.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio3_Pizza\obj\Debug\netcoreapp3.1\Desafio3_Pizza.genruntimeconfig.cache

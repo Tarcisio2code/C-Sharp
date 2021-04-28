@@ -1,0 +1,12 @@
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\bin\Debug\netcoreapp3.1\Desafio5_IdadeemDias.exe
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\bin\Debug\netcoreapp3.1\Desafio5_IdadeemDias.deps.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\bin\Debug\netcoreapp3.1\Desafio5_IdadeemDias.runtimeconfig.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\bin\Debug\netcoreapp3.1\Desafio5_IdadeemDias.runtimeconfig.dev.json
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\bin\Debug\netcoreapp3.1\Desafio5_IdadeemDias.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\bin\Debug\netcoreapp3.1\Desafio5_IdadeemDias.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\obj\Debug\netcoreapp3.1\Desafio5_IdadeemDias.AssemblyInfoInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\obj\Debug\netcoreapp3.1\Desafio5_IdadeemDias.AssemblyInfo.cs
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\obj\Debug\netcoreapp3.1\Desafio5_IdadeemDias.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\obj\Debug\netcoreapp3.1\Desafio5_IdadeemDias.dll
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\obj\Debug\netcoreapp3.1\Desafio5_IdadeemDias.pdb
+C:\Users\Tarcisio\Google Drive\DIO\workspace\Desafios Algoritmos\Desafio5_IdadeemDias\obj\Debug\netcoreapp3.1\Desafio5_IdadeemDias.genruntimeconfig.cache
